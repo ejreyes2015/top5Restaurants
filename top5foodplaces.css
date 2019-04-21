@@ -1,0 +1,32 @@
+.backgroundcolor{
+	background-color: slategray;
+	font-family: "Tahoma", Geneva, sans-serif; 
+	color: white;
+}
+
+.idkh2{
+	background-color: black;
+	border: 5px solid lightblue;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	height: 600px;
+	width:800px;
+	
+}
+
+.idk{
+	background-color: black;
+	border: 5px solid lightblue;
+	padding-left: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	height: 550px;
+	width:800px;
+}
+
